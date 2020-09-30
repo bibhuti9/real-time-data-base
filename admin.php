@@ -39,7 +39,7 @@
 
 	<script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
 	<script src='https://cdnjs.cloudflare.com/ajax/libs/malihu-custom-scrollbar-plugin/3.1.3/jquery.mCustomScrollbar.concat.min.js'></script>
-	<script type="text/javascript" src="functions.js"></script>
+	
 	<script src="https://www.gstatic.com/firebasejs/7.10.0/firebase.js"></script>
 
 <!-- The core Firebase JS SDK is always required and must be listed first -->
